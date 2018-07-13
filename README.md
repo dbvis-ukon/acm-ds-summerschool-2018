@@ -1,1 +1,1 @@
-This repository contains data and code for the visual analytics sessions held at the 2nd ACM Europe Summer School | Data Science.
+This repository contains data, code, and the slides for the visual analytics sessions held at the 2nd ACM Europe Summer School | Data Science.
